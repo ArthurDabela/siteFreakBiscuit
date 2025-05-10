@@ -2,7 +2,24 @@
 
 body {
     background-color: #aaaaaa;
+    font-family: 'Calibri'; 
     margin: 0;
     overflow-x: hidden;
 }
 
+/*Header*/
+
+header{
+    overflow: hidden;
+    background-color: #30a800;
+    padding: 4px 4px;
+}
+
+header .instagram{
+    float: inline-end;
+}
+
+header img{
+    max-width:35px;
+    width: auto;
+}
