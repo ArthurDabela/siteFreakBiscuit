@@ -1,0 +1,7 @@
+/*Reset da página*/
+
+body {
+    background-color: #aaaaaa;
+    margin: 0;
+    overflow-x: hidden;
+}
