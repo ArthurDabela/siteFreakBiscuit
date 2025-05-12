@@ -12,14 +12,18 @@ body {
 header{
     overflow: hidden;
     background-color: #30a800;
-    padding: 4px 4px;
+    /*padding: 4px 4px;*/
 }
 
-header .instagram{
+.icone-instagram{
     float: inline-end;
+    max-width:35px;
+    width: auto;
+    padding: 2px 2px;
 }
 
-header img{
-    max-width:35px;
+.logo-freak-biscuit{
+    float: inline-start;
+    max-width: 164px;
     width: auto;
 }
