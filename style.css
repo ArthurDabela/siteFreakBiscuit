@@ -11,8 +11,7 @@ body {
 
 header{
     overflow: hidden;
-    background-color: #30a800;
-    /*padding: 4px 4px;*/
+    background-color: #000000;
 }
 
 .icone-instagram{
@@ -26,4 +25,12 @@ header{
     float: inline-start;
     max-width: 164px;
     width: auto;
+}
+
+main {
+    background-image: url("freak-biscuit-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
 }
