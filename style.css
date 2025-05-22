@@ -1,7 +1,7 @@
 /*Reset da página*/
 
 body {
-    background-color: #aaaaaa;
+    background-color: #5a5a5a;
     font-family: 'Calibri'; 
     margin: 0;
     overflow-x: hidden;
@@ -33,4 +33,27 @@ main {
     background-size: cover;
     background-position: center;
     width: 100%;
+}
+
+.main-left, .main-right{
+    float: left;
+    text-align: center;
+    width: 50%;
+}
+
+.img-quem-sou, .logo-body-quem-sou{
+    padding-top: 4%;
+    text-align: center;
+    width: 40%;
+}
+
+.logo-body-quem-sou {
+    padding-top: 7%;
+}
+
+h2{
+    padding-left: 23%;
+    text-align: center;
+    width: 55%;
+    color: #07da19;
 }
